@@ -1,4 +1,4 @@
-# EmployeeDemoHealthyCatalyst
+# Demo Employee
 A demo project for a job application
 You may need to right click on the solution and select set startup projects select multiple DemoEmployee and EmployeeFrontEnd. 
 There are three projects in this solution
